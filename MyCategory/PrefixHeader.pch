@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  MyCategory
+//
+//  Created by e1858 on 15/7/14.
+//  Copyright (c) 2015年 JH. All rights reserved.
+//
+
+#ifndef MyCategory_PrefixHeader_pch
+#define MyCategory_PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "JHCategoryConst.h"
+#import "UIImageView+WebCache.h"
+
+#endif
